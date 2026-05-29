@@ -1,0 +1,4 @@
+interface:
+  display_name: "rhwp GUI Agent"
+  short_description: "Control and test the rhwp web HWP/HWPX editor GUI."
+  default_prompt: "Use rhwp GUI Agent to run the rhwp web editor, control its GUI, test document editing features, and create or validate HWP/HWPX documents."
