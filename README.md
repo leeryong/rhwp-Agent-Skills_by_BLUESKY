@@ -1,5 +1,11 @@
 # rhwp Agent Skills
 
+<div align="right">
+
+**한국어** | [English](README.en.md)
+
+</div>
+
 [rhwp](https://github.com/edwardkim/rhwp) — Rust/WebAssembly 기반 HWP/HWPX 뷰어·에디터 — 를 AI 에이전트가 다룰 수 있도록 스킬화(skill)한 모음입니다.
 
 <p align="center">
