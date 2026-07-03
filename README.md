@@ -20,6 +20,16 @@
 
 ---
 
+## 🆕 최신 소식 (Latest News)
+
+> ### 🌐 이제 **TAW**에서 에이전트로 만나요!
+>
+> **rhwp Agent Skills** — 이제 **[The Agents Web (TAW)](https://github.com/leeryong/The_Agents_Web_TAW)** 플랫폼에서 **에이전트**로 만날 수 있습니다!
+> 설치 없이 **TAW Browser** 하나로 **PC·모바일 어디서나**(Windows · macOS · Linux · iOS · Android), **대화로도 웹앱으로도** 바로 쓰세요.
+>
+> ➡️ **[The Agents Web (TAW)](https://github.com/leeryong/The_Agents_Web_TAW)** · 🌌 **[KISTI · BLUESKY](https://github.com/leeryong/KISTI_BLUESKY)**
+
+
 ## 🔎 개요
 
 한글 문서(HWP/HWPX)는 국내에서 널리 쓰이지만 프로그래밍 방식으로 다루기는 까다롭습니다. rhwp는 이를 Rust로 파싱·렌더링하고 WebAssembly로 빌드해 브라우저에서 동작하는 HWP 편집기(`rhwp-studio`)로 구현한 프로젝트입니다.
